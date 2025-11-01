@@ -1,0 +1,8 @@
+body {
+    color: white;
+    background-color: rgb(48, 27, 27);
+}
+
+input, button {
+    padding: 10px;
+}
